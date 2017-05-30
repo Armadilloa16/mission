@@ -1,0 +1,21 @@
+---
+title: Mission, Vision, <br\> and Core Values
+author: "UniSA MS Group at FII"
+output: 
+  ioslides_presentation:
+    css: style.css
+---
+
+## R Markdown
+
+This is an R Markdown presentation. Markdown is a simple formatting syntax for 
+authoring HTML, PDF, and MS Word documents. For more details on using R Markdown 
+see <http://rmarkdown.rstudio.com>.
+
+## Slide with Bullets
+
+- Bullet 1
+- Bullet 2
+- Bullet 3
+
+

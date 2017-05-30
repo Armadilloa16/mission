@@ -1,0 +1,23 @@
+
+.gdbar img {
+  width: 300px !important;
+  height: 150px !important;
+  margin: 8px 8px;
+}
+
+.gdbar {
+  width: 400px !important;
+  height: 170px !important;
+}
+
+slides {
+  background: #1F4FA2;
+}
+
+slides > slide {
+  background-image: url(logo/fiiMS_logo.png) !important;
+  background-size: 200px !important;
+  background-repeat: no-repeat !important;
+  background-position: 93.1% 4% !important;
+}
+
