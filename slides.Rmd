@@ -26,8 +26,8 @@ and places to hold the ideas we come up with during brainstorming.
 Following these slides will be three sections, titled "Mission Statement", 
 "Vision Statement", and "Core Values", which will be where we store the final 
 product. When we are done brainstorming and get closer to the final product we 
-can reduce or even remove this slide and the following Work-in-Progress 
-sections.
+can reduce or even remove this slide and the following Work-in-Progress/ 
+brainstorming sections.
 
 ## Work-in-Progress: Hedgehog
 
@@ -39,6 +39,69 @@ We will use the three questions:
 
 to find the intersection between these three that will inform our brainstorming.
 
+## Brainstorming: 1.
+
+1. What Drives Us? (What do we want to be the best in the world at? What we 
+   *cannot* be the best in the world at?)
+
+- Being able to link/bridge different
+  paradigms/languages/fields/disciplines/contexts
+- We should be the best at addressing the challenges at our time for MS
+- The role model/leaders/pioneers in rigorous reporting and interpretation of 
+  experimental analyses/workflows/processes
+- Influencing other groups to aspire to do the same
+- Defining practical implementation
+- A constant refinement of this principle
+- Providing platform/structure/ to ensure any person coming into the lab/group 
+  will be taught to get “upto-standard”
+  
+## Brainstorming: 1.
+
+- Willingness to learn
+- Willingness to teach
+- Time management/stage-gate
+- Work/life balance
+- A culture that rewards challenge (e.g. recognising 
+  problems/errors/improvements etc.)
+- A drive to take our current weaknesses and make them our strengths
+
+## Brainstorming: 2. Strengths
+
+2. What are our Unique Strengths (and weaknesses)?: 
+
+Strengths:
+
+- Enthusiasm
+- Robustness and consistency, integrity
+- Australian code for responsible conduct of research
+- Access to FII accelerator grants
+- MS Imaging
+- MALDI Biotyper
+- MALDI-TOF/TOF Expertise
+- Hardware access
+
+## Brainstorming: 2. Strengths
+
+- New group – opportunity to create a culture that aligns with our values
+- Modern approach – openness
+- Paper Folding
+
+## Brainstorming: 2. Weakness
+
+2. What are our Unique Strengths (and weaknesses)?: 
+
+Weaknesses:
+
+- Small group: FTE (limited in resources)
+- Hardware access (2x MALDI-TOF, 1x QqQ, shared 2x Qq-TOF)
+- New group – time required for lab/process setup
+- Enthusiasm: capacity limitations, time management
+    - Learning to say no (knowing capacity)
+    - Work/life balance
+
+## Brainstorming: 3. 
+
+3. Current Known Economic Potential?: 
 
 
 ## Mission Statement
@@ -69,8 +132,9 @@ culture as goals are met.”
 Our values should align with the University's (see following slides) as best as 
 possible but cover all important aspects of our day-to-day operations:
 
-- **Scholarship:** 
-- **Engagement:**
+- **Integrity:** We adhere to best practices in accordance to the 
+  [Australian Code for the Responsible Conduct of Research](https://www.nhmrc.gov.au/guidelines-publications/r39).
+- **Collaboration:**
 - **Social Justice:** 
 - **Sustainability:**
 - **Innovation:**
