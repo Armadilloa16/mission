@@ -14,8 +14,6 @@ This is an R Markdown presentation. Markdown is a simple formatting syntax for
 authoring HTML, PDF, and MS Word documents. For more details on using R Markdown 
 see <http://rmarkdown.rstudio.com>.
 
-
-
 ## Work-in-Progress: Overview
 
 Ultimately we want to arrive at Mission and Vision Statements, as well as core 
@@ -45,24 +43,25 @@ to find the intersection between these three that will inform our brainstorming.
    *cannot* be the best in the world at?)
 
 - Being able to link/bridge different
-  paradigms/languages/fields/disciplines/contexts
-- We should be the best at addressing the challenges at our time for MS
-- The role model/leaders/pioneers in rigorous reporting and interpretation of 
+  fields and disciplines
+- We should be the best at addressing the challenges of our time for MS
+- Being role models/leaders/pioneers in rigorous reporting and interpretation of 
   experimental analyses/workflows/processes
 - Influencing other groups to aspire to do the same
 - Defining practical implementation
-- A constant refinement of this principle
-- Providing platform/structure/ to ensure any person coming into the lab/group 
-  will be taught to get “upto-standard”
+- A constant refinement/adaptation of these principles
+- Providing platform and structure to ensure that any person coming into the lab/group 
+  will be taught to achieve a "world-class standard”
   
 ## Brainstorming: 1.
 
-- Willingness to learn
-- Willingness to teach
-- Time management/stage-gate
-- Work/life balance
-- A culture that rewards challenge (e.g. recognising 
-  problems/errors/improvements etc.)
+- Exhibit a Willingness to learn
+- Exhibit a Willingness to teach
+- Implement time management and stage-gate principles
+- Achieve Work/life balance
+- Implement and adhere to 5S principles
+- A culture that rewards the observation, reporting and addressing of challenges (e.g. recognising 
+  problems/errors/need for improvements etc.)
 - A drive to take our current weaknesses and make them our strengths
 
 ## Brainstorming: 2. Strengths
@@ -72,13 +71,12 @@ to find the intersection between these three that will inform our brainstorming.
 Strengths:
 
 - Enthusiasm
-- Robustness and consistency, integrity
-- Australian code for responsible conduct of research
-- Access to FII accelerator grants
-- MS Imaging
+- Robustness and consistency (integrity)
+- Adherence to the Australian Code for Responsible Conduct of Research
+- Access to FII, and the FII accelerator grants
+- MS Imaging Expertise
 - MALDI Biotyper
 - MALDI-TOF/TOF Expertise
-- Hardware access
 
 ## Brainstorming: 2. Strengths
 
