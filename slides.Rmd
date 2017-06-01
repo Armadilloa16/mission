@@ -41,7 +41,7 @@ to find the intersection between these three that will inform our brainstorming.
 
 ## Brainstorming: 1.
 
-1. What Drives Us? (What do we want to be the best in the world at? What we 
+1.: What Drives Us? (What do we want to be the best in the world at? What we 
    *cannot* be the best in the world at?)
 
 - Being able to link/bridge different
@@ -67,7 +67,7 @@ to find the intersection between these three that will inform our brainstorming.
 
 ## Brainstorming: 2. Strengths
 
-2. What are our Unique Strengths (and weaknesses)?: 
+2: What are our Unique Strengths (and weaknesses)?: 
 
 Strengths:
 
@@ -78,21 +78,23 @@ Strengths:
 - MS Imaging
 - MALDI Biotyper
 - MALDI-TOF/TOF Expertise
-- Hardware access
 
 ## Brainstorming: 2. Strengths
 
+- Hardware access (open access to hardware through FII)
 - New group – opportunity to create a culture that aligns with our values
 - Modern approach – openness
+- Complimentary strengths and weaknessed amongst people in the group.
+- Muppet watch.
 
 ## Brainstorming: 2. Weakness
 
-2. What are our Unique Strengths (and weaknesses)?: 
+2: What are our Unique Strengths (and weaknesses)?: 
 
 Weaknesses:
 
 - Small group: FTE (limited in resources)
-- Hardware access (2x MALDI-TOF, 1x QqQ, shared 2x Qq-TOF)
+- Hardware access (limited number and stable configurations: 2x MALDI-TOF, 1x QqQ, shared 2x Qq-TOF)
 - New group – time required for lab/process setup
 - Enthusiasm: capacity limitations, time management
     - Learning to say no (knowing capacity)
@@ -100,7 +102,26 @@ Weaknesses:
 
 ## Brainstorming: 3. 
 
-3. Current Known Economic Potential?: 
+3: Current Known Economic Potential?: 
+
+- Publications
+    - Data in Briefs
+- Industry Collaboration
+    - CSL
+    - Bionomics
+    - Coopers
+    - Ziltek
+    - Other...
+    - Future Collaborations
+
+## Brainstorming: 3. 
+
+3: Current Known Economic Potential?: 
+
+- Active pursuit of non-federal funding
+    - Defence?
+    - Agriculture?
+    - Small business?
 
 
 ## Mission Statement
@@ -131,13 +152,12 @@ culture as goals are met.”
 Our values should align with the University's (see following slides) as best as 
 possible but cover all important aspects of our day-to-day operations:
 
-- **Integrity:** We adhere to best practices in accordance to the 
+- **Integrity:** We adhere to best practices including the 
   [Australian Code for the Responsible Conduct of Research](https://www.nhmrc.gov.au/guidelines-publications/r39).
+- **Principle:** We value, adhere to and teach the scientific method with particular emphasis on  reproducibility and the fundamental philosophy of science -- ?avoiding thinking in absolute terms?. 
 - **Collaboration:**
-- **Social Justice:** 
-- **Sustainability:**
-- **Innovation:**
-- **Openness:**
+- **Innovation:** 
+- **Openness:** We strive to culture an environment in which people feel comfortable and encouraged to give and receive constructive criticism.
 
 
 
