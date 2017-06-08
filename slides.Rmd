@@ -125,24 +125,22 @@ Weaknesses:
 
 ## Mission Statement
 
-**Definition:** “A *mission statement* is a short statement of an organization's
-purpose, identifying the scope of its operations: what kind of product or
-service it provides, its primary customers or market, and its geographical
-region of operation.”
-
 **Our Mission Statement:**
+
+The MS group at FII aims to be a centre of expertise in MS with a specific focus 
+on MALDI imaging, that can perform research and provide services to industry at
+the highest scientific standards of transparency and reproducability. *(Lyron)*
 
 
 
 ## Vision Statement
 
-**Definition:** “A *mission statement* is intended to clarify the 'what' and 
-'who' of a company, while a *vision statement* adds the 'why' and 'how' as well. 
-As a company grows, its objectives and goals may change. Therefore, 
-*vision statements* should be revised as needed to reflect the changing business 
-culture as goals are met.”
-
 **Our Vision Statement:**
+
+The MS group at FII will help foster a global scientific environment that values 
+free trade of information and constructive critisicm by both setting an example 
+through our own cultural environment (through collaborations) and our 
+procedures, which will be shared publically. *(Lyron)*
 
 
 
