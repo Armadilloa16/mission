@@ -131,7 +131,10 @@ service it provides, its primary customers or market, and its geographical
 region of operation.”
 
 **Our Mission Statement:**
-The MS group at FII brings together MS experise to provide the most comprehensive MS-based strategies for industry partners. This is based on the group's expertise in MS (particularly MALDI Imaging) research and the ability to adapt cutting-edge workflows utilising MS platforms to address research and industires requirements.  
+The MS group at FII brings together MS experise to provide the most comprehensive 
+MS-based strategies for industry partners. This is based on the group's expertise
+in MS (particularly MALDI Imaging) research and the ability to adapt cutting-edge
+workflows utilising MS platforms to address research and industires requirements. *(Mark)*
 
 
 ## Vision Statement
@@ -143,7 +146,11 @@ As a company grows, its objectives and goals may change. Therefore,
 culture as goals are met.”
 
 **Our Vision Statement:**
-We aim to instill a culture of collaboration, open communication and learning to ensure all members and affiliates have a sound scientific approach to their work. We achieve this by standardising the approach to every aspect of day-today work; from experimental design and good lab practice to analysis and reporting of data generated for both industry and research.
+We aim to instill a culture of collaboration, open communication and learning to 
+ensure all members and affiliates have a sound scientific approach to their work. 
+We achieve this by standardising the approach to every aspect of day-today work; 
+from experimental design and good lab practice to analysis and reporting of data 
+generated for both industry and research.*(Mark)*
 
 
 ## Core Values
@@ -154,7 +161,9 @@ possible but cover all important aspects of our day-to-day operations:
 - **Integrity:** We adhere to best practices including the 
   [Australian Code for the Responsible Conduct of Research](https://www.nhmrc.gov.au/guidelines-publications/r39).
 - **Principle:** We value, adhere to and teach the scientific method with particular emphasis on  reproducibility and the fundamental philosophy of science -- ?avoiding thinking in absolute terms?. 
-- **Collaboration:**We belive that a collaborative approach to addressing the needs of industry as well as research questions is key to our success, and we aim to lead by example on defining, implementing and achieving successful collaborations both internally and externally
+- **Collaboration:**We belive that a collaborative approach to addressing the needs
+of industry as well as research questions is key to our success, and we aim to lead 
+by example on defining, implementing and achieving successful collaborations both internally and externally
 - **Innovation:** We aim to be leaders in MS-based techniques, driven by state-of-the art technology and scientific expertise 
 - **Openness:** We strive to culture an environment in which people feel comfortable and encouraged to give and receive constructive criticism.
 
