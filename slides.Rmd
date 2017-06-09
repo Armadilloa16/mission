@@ -7,13 +7,6 @@ output:
 ---
 
 
-
-## R Markdown
-
-This is an R Markdown presentation. Markdown is a simple formatting syntax for 
-authoring HTML, PDF, and MS Word documents. For more details on using R Markdown 
-see <http://rmarkdown.rstudio.com>.
-
 ## Work-in-Progress: Overview
 
 Ultimately we want to arrive at Mission and Vision Statements, as well as core 
@@ -124,44 +117,30 @@ Weaknesses:
 
 
 ## Mission Statement
-
 **Our Mission Statement:**
-The MS group at FII brings together MS experise to provide the most comprehensive 
-MS-based strategies for industry partners. This is based on the group's expertise
-in MS (particularly MALDI Imaging) research and the ability to adapt cutting-edge
-workflows utilising MS platforms to address research and industires requirements. *(Mark)*
 
-The MS group at FII aims to be a centre of expertise in MS with a specific focus 
-on MALDI imaging, that can perform research and provide services to industry at
-the highest scientific standards of transparency and reproducability. *(Lyron)*
+fiiMS is a centre of expertise in Mass Spectrometry. 
+We set the benchmark for global best practice in the preparation, analysis and 
+reporting of results.
+We undertake both fundamental and applied research to acheive tangible outcomes 
+which can be provided to industrial partners with the highest scientific 
+standards of transparency and reproducibility.
 
-
-
-## Mission Statement
-
-fiiMS provides mass spectrometry expertise and infrastructure to the academic 
-and industrial sectors in South Australia. We set the benchmark for global best 
-practice in the preparation, analysis and reporting of results obtained, with a 
-focus on our core strength areas: imaging and profiling mass spectrometry. This 
-ensures robust and reproducible analytical outcomes, which underpins both 
-translational academic research and the provision of high-end analytical 
-capacities to industrial partners. *(Johan)*
 
 
 ## Vision Statement
 
 **Our Vision Statement:**
-We aim to instill a culture of collaboration, open communication and learning to 
-ensure all members and affiliates have a sound scientific approach to their work. 
-We achieve this by standardising the approach to every aspect of day-today work; 
-from experimental design and good lab practice to analysis and reporting of data 
-generated for both industry and research.*(Mark)*
 
-The MS group at FII will help foster a global scientific environment that values 
-free trade of information and constructive critisicm by both setting an example 
-through our own cultural environment (through collaborations) and our 
-procedures, which will be shared publically. *(Lyron)*
+We aim to develop a culture that instills:
+- collaboration, communication and enthusiasm amongst all members and 
+affiliates of fiiMS.
+- the concepts of free trade of information, sound experimental design and lab 
+practice by standardising our approach to analysis and reporting of data and 
+allowing it to evolve and improve over time.
 
+This culture will guide our continuing development of our world-leading 
+expertise in imaging MS.
 
 ## Core Values
 
@@ -170,11 +149,19 @@ possible but cover all important aspects of our day-to-day operations:
 
 - **Integrity:** We adhere to best practices including the 
   [Australian Code for the Responsible Conduct of Research](https://www.nhmrc.gov.au/guidelines-publications/r39).
-- **Principle:** We value, adhere to and teach the scientific method with particular emphasis on  reproducibility and the fundamental philosophy of science -- ?avoiding thinking in absolute terms?. 
-- **Collaboration:**We belive that a collaborative approach to addressing the needs
-of industry as well as research questions is key to our success, and we aim to lead 
-by example on defining, implementing and achieving successful collaborations both internally and externally
-- **Innovation:** We aim to be leaders in MS-based techniques, driven by state-of-the art technology and scientific expertise 
+- **Principle:** We value, adhere to and teach the scientific method with particular emphasis on  transparency, reproducibility and fundamental concept that ``the only test of the validity of an idea is experiement'' (Richard Feynman).
+- **Collaboration:** We believe that a collaborative approach is key to
+addressing the needs of industry as well as fundamental research. We aim to lead 
+by example through defining, implementing and fostering successful 
+collaborations.
+
+
+
+## Core Values
+
+- **Innovation:** We will be leaders in Mass Spectrometry based techniques, 
+driven by state-of-the art technology, good scientific practice, and solving 
+current challenges in the field.
 - **Openness:** We strive to culture an environment in which people feel comfortable and encouraged to give and receive constructive criticism.
 
 
