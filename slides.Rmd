@@ -137,6 +137,17 @@ the highest scientific standards of transparency and reproducability. *(Lyron)*
 
 
 
+## Mission Statement
+
+fiiMS provides mass spectrometry expertise and infrastructure to the academic 
+and industrial sectors in South Australia. We set the benchmark for global best 
+practice in the preparation, analysis and reporting of results obtained, with a 
+focus on our core strength areas: imaging and profiling mass spectrometry. This 
+ensures robust and reproducible analytical outcomes, which underpins both 
+translational academic research and the provision of high-end analytical 
+capacities to industrial partners. *(Johan)*
+
+
 ## Vision Statement
 
 **Our Vision Statement:**
