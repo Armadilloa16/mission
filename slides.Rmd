@@ -38,6 +38,9 @@ to find the intersection between these three that will inform our brainstorming.
 - Being able to link/bridge different
   fields and disciplines
 - We should be the best at addressing the challenges of our time for MS
+application in Proteomics
+-We should aimto be the leaders in MSI and tissue-based proteomics in Australia
+and South-East Asia
 - Being role models/leaders/pioneers in rigorous reporting and interpretation of 
   experimental analyses/workflows/processes
 - Influencing other groups to aspire to do the same
@@ -55,6 +58,8 @@ to find the intersection between these three that will inform our brainstorming.
 - Implement and adhere to 5S principles
 - A culture that rewards the observation, reporting and addressing of challenges (e.g. recognising 
   problems/errors/need for improvements etc.)
+- A solutions and outcome focused approach to dealing with problems/errors/
+needs for improvements etc.
 - A drive to take our current weaknesses and make them our strengths
 
 ## Brainstorming: 2. Strengths
@@ -66,10 +71,11 @@ Strengths:
 - Enthusiasm
 - Robustness and consistency (integrity)
 - Adherence to the Australian Code for Responsible Conduct of Research
-- Access to FII, and the FII accelerator grants
+- Access to FII infrastructure, and the FII accelerator grants
 - MS Imaging Expertise
 - MALDI Biotyper
 - MALDI-TOF/TOF Expertise
+- Laser micro-dissection coupled with MSI
 
 ## Brainstorming: 2. Strengths
 
@@ -77,7 +83,10 @@ Strengths:
 - New group – opportunity to create a culture that aligns with our values
 - Modern approach – openness
 - Complimentary strengths and weaknessed amongst people in the group.
-- Muppet watch.
+- International connections in the field of Proteomics - such as having direct
+access to the HUPO committee
+- Direct and exclusive access to gynecological cancers tissue samples as well
+as clinical expertise
 
 ## Brainstorming: 2. Weakness
 
@@ -88,6 +97,7 @@ Weaknesses:
 - Small group: FTE (limited in resources)
 - Hardware access (limited number and stable configurations: 2x MALDI-TOF, 1x QqQ, shared 2x Qq-TOF)
 - New group – time required for lab/process setup
+- Limited expertise in LC-MSMS, particularly for small molecules
 - Enthusiasm: capacity limitations, time management
     - Learning to say no (knowing capacity)
     - Work/life balance
@@ -103,23 +113,29 @@ Weaknesses:
     - Bionomics
     - Coopers
     - Ziltek
+    - Agilent
+    - Bruker
     - Other...
     - Future Collaborations
+    - NCRIS, Current
+    - OCRF, Current
+    - FIA, Current
 
 ## Brainstorming: 3. 
 
 3: Current Known Economic Potential?: 
 
-- Active pursuit of non-federal funding
-    - Defence?
-    - Agriculture?
-    - Small business?
+- Active pursuit of non-federal funding (e.g. State funding)
+    - Defence
+    - Food
+    - All post-doc group members expected to be pro-active in defining and 
+    applying for grant funding
 
 
 ## Mission Statement
 **Our Mission Statement:**
 
-fiiMS is a centre of expertise in Mass Spectrometry. 
+fiiMS is a centre of expertise for biological Mass Spectrometry analyses. 
 We set the benchmark for global best practice in the preparation, analysis and 
 reporting of results.
 We undertake both fundamental and applied research to acheive tangible outcomes 
@@ -133,14 +149,14 @@ standards of transparency and reproducibility.
 **Our Vision Statement:**
 
 We aim to develop a culture that instills:
-- collaboration, communication and enthusiasm amongst all members and 
-affiliates of fiiMS.
+- collaboration, communication, enthusiasm and drive for excellence
+amongst all members and affiliates of fiiMS.
 - the concepts of free trade of information, sound experimental design and lab 
 practice by standardising our approach to analysis and reporting of data and 
 allowing it to evolve and improve over time.
 
 This culture will guide our continuing development of our world-leading 
-expertise in imaging MS.
+expertise in the use of MS for imaging and 'omics' approaches.
 
 ## Core Values
 
