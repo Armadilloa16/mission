@@ -1,11 +1,10 @@
 ---
-title: Mission, Vision, <br\> and Core Values
+title: Mission, Vision, <br\> and Core Values <br\> --- Brainstorming
 author: "UniSA MS Group at FII"
 output: 
   ioslides_presentation:
     css: style.css
 ---
-
 
 ## Work-in-Progress: Overview
 
@@ -14,21 +13,17 @@ values/ attributes for our MS group here at FII. What follow are some guideline
 slides describing some of the guiding questions we will use to arrive at these, 
 and places to hold the ideas we come up with during brainstorming. 
 
-Following these slides will be three sections, titled "Mission Statement", 
-"Vision Statement", and "Core Values", which will be where we store the final 
-product. When we are done brainstorming and get closer to the final product we 
-can reduce or even remove this slide and the following Work-in-Progress/ 
-brainstorming sections.
-
 ## Work-in-Progress: Hedgehog
 
 We will use the three questions:
 
 1. What Drives Us?
-2. Unique Strengths?
+2. Unique Strengths/ Weaknesses?
 3. Current Known Economic Potential
 
 to find the intersection between these three that will inform our brainstorming.
+These three sections will split the following brainstorming slides into 
+sections, which each address one of these questions.
 
 ## Brainstorming: 1.
 
@@ -43,11 +38,11 @@ to find the intersection between these three that will inform our brainstorming.
 - Influencing other groups to aspire to do the same
 - Defining practical implementation
 - A constant refinement/adaptation of these principles
-- Providing platform and structure to ensure that any person coming into the lab/group 
-  will be taught to achieve a "world-class standard”
   
 ## Brainstorming: 1.
 
+- Providing platform and structure to ensure that any person coming into the lab/group 
+  will be taught to achieve a "world-class standard”
 - Exhibit a Willingness to learn
 - Exhibit a Willingness to teach
 - Implement time management and stage-gate principles
@@ -71,7 +66,7 @@ Strengths:
 - MALDI Biotyper
 - MALDI-TOF/TOF Expertise
 
-## Brainstorming: 2. Strengths
+## Brainstorming: 2. Strength
 
 - Hardware access (open access to hardware through FII)
 - New group – opportunity to create a culture that aligns with our values
@@ -114,66 +109,14 @@ Weaknesses:
     - Defence?
     - Agriculture?
     - Small business?
-
-
-## Mission Statement
-**Our Mission Statement:**
-
-fiiMS is a centre of expertise in Mass Spectrometry. 
-We set the benchmark for global best practice in the preparation, analysis and 
-reporting of results.
-We undertake both fundamental and applied research to acheive tangible outcomes 
-which can be provided to industrial partners with the highest scientific 
-standards of transparency and reproducibility.
-
-
-
-## Vision Statement
-
-**Our Vision Statement:**
-
-We aim to develop a culture that instills:
-- collaboration, communication and enthusiasm amongst all members and 
-affiliates of fiiMS.
-- the concepts of free trade of information, sound experimental design and lab 
-practice by standardising our approach to analysis and reporting of data and 
-allowing it to evolve and improve over time.
-
-This culture will guide our continuing development of our world-leading 
-expertise in imaging MS.
-
-## Core Values
-
-Our values should align with the University's (see following slides) as best as 
-possible but cover all important aspects of our day-to-day operations:
-
-- **Integrity:** We adhere to best practices including the 
-  [Australian Code for the Responsible Conduct of Research](https://www.nhmrc.gov.au/guidelines-publications/r39).
-- **Principle:** We value, adhere to and teach the scientific method with particular emphasis on  transparency, reproducibility and fundamental concept that ``the only test of the validity of an idea is experiement'' (Richard Feynman).
-- **Collaboration:** We believe that a collaborative approach is key to
-addressing the needs of industry as well as fundamental research. We aim to lead 
-by example through defining, implementing and fostering successful 
-collaborations.
-
-
-
-## Core Values
-
-- **Innovation:** We will be leaders in Mass Spectrometry based techniques, 
-driven by state-of-the art technology, good scientific practice, and solving 
-current challenges in the field.
-- **Openness:** We strive to culture an environment in which people feel comfortable and encouraged to give and receive constructive criticism.
-
-
-
+    
 ## UniSA Values and Attributes
 
 What follow are several slides outlining the UniSA Core Values and Attributes,
-for reference. Ultimately when we are done defining our Core Values and 
-Attributes and are satisfied with how they fit with those of the university, we 
-can remove this slide forward, leaving a document just describing our values, or
-we could replace and/ or add a discussion of how our values/ attributes fit with 
-those of the university here.
+for reference. 
+
+Our values should align with the University's (see following slides) as best as 
+possible but cover all important aspects of our day-to-day operations.
 
 ## UniSA Core Values
 

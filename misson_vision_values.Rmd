@@ -1,0 +1,54 @@
+---
+title: Mission, Vision, <br\> and Core Values
+author: "UniSA MS Group at FII"
+output: 
+  ioslides_presentation:
+    css: style.css
+---
+
+## Mission Statement
+**Our Mission Statement:**
+
+fiiMS is a centre of expertise in Mass Spectrometry. 
+We set the benchmark for global best practice in the preparation, analysis and 
+reporting of results.
+We undertake both fundamental and applied research to acheive tangible outcomes 
+which can be provided to industrial partners with the highest scientific 
+standards of transparency and reproducibility.
+
+## Vision Statement
+**Our Vision Statement:**
+
+We aim to develop a culture that instills:
+- collaboration, communication and enthusiasm amongst all members and 
+affiliates of fiiMS.
+- the concepts of free trade of information, sound experimental design and lab 
+practice by standardising our approach to analysis and reporting of data and 
+allowing it to evolve and improve over time.
+
+This culture will guide our continuing development of our world-leading 
+expertise in imaging MS.
+
+## Core Values
+**Our Core Values:**
+
+- **Integrity:** We adhere to best practices including the 
+  [Australian Code for the Responsible Conduct of Research](https://www.nhmrc.gov.au/guidelines-publications/r39).
+- **Principle:** We value, adhere to and teach the scientific method with particular emphasis on  transparency, reproducibility and fundamental concept that ``the only test of the validity of an idea is experiement'' (Richard Feynman).
+- **Collaboration:** We believe that a collaborative approach is key to
+addressing the needs of industry as well as fundamental research. We aim to lead 
+by example through defining, implementing and fostering successful 
+collaborations.
+
+
+## Core Values
+
+- **Innovation:** We will be leaders in Mass Spectrometry based techniques, 
+driven by state-of-the art technology, good scientific practice, and solving 
+current challenges in the field.
+- **Openness:** We strive to culture an environment in which people feel comfortable and encouraged to give and receive constructive criticism.
+
+
+
+
+

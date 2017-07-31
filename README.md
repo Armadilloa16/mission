@@ -1,4 +1,8 @@
 Slides outlining our Mission, Vision, and Core Values at the MS Group in FII, 
-UniSA.
+UniSA, as well as some slides from our brainstorming sessions when deciding on 
+the above.
 
-Html slides can be served directly [here](https://rawgit.com/Armadilloa16/mission/master/slides.html)
+Html slides outlining our Mission, Vision, and Core Values can be viewed easily
+[here](https://rawgit.com/Armadilloa16/mission/master/mission_vision_values.html),
+while our brainstorming slides can also be viewed 
+[here](https://rawgit.com/Armadilloa16/mission/master/brainstorming.html),
